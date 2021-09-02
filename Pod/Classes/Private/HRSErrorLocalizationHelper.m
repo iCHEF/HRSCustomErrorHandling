@@ -1,4 +1,5 @@
 #import "HRSErrorLocalizationHelper.h"
+#import <UIKit/UIKit.h>
 
 @implementation HRSErrorLocalizationHelper
 
